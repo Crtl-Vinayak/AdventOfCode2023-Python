@@ -1,4 +1,4 @@
-file = open("day1_example.txt", "r")
+file = open("example_input.txt", "r")
 txt = file.read()
 print(txt)
 
