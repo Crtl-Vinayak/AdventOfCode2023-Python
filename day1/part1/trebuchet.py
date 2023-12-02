@@ -1,4 +1,4 @@
-file = open("example_input.txt", "r")
+file = open("input.txt", "r")
 txt = file.read()
 lijst = txt.split() # lijst is een lijst zinnen.
 digit_lijst = []
